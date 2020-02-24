@@ -31,6 +31,8 @@ public class Main {
         Arrays.stream(table).
                 filter(x->x%2==0).sorted((t,u)->u.compareTo(t)).
                 forEach(System.out::println);
+        
+        System.out.println("fin du programme)
 
 
     }
