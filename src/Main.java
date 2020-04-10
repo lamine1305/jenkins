@@ -33,6 +33,6 @@ public class Main {
                 forEach(System.out::println);
         
         System.out.println("fin du programme lamine1305");
-
+	System.out.println("Validation de la part de lamine1306");	
     }
 }
