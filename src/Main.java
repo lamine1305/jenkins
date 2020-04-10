@@ -32,7 +32,7 @@ public class Main {
                 filter(x->x%2==0).sorted((t,u)->u.compareTo(t)).
                 forEach(System.out::println);
         
-        System.out.println("fin du programme lamine1305 . . .");
+        System.out.println("fin du programme lamine1305 . . .1305");
 
     }
 }
