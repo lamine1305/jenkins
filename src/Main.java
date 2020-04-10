@@ -36,6 +36,7 @@ public class Main {
 	System.out.println(" - -  - Validation de la part de lamine1306");	
 cfdnvjkkfhvbfgj
         System.out.println("fin du programme lamine1305 . . .1305");
+			dfdsdsblablabla
 
     }
 }
