@@ -31,7 +31,7 @@ public class Main {
         Arrays.stream(table).
                 filter(x->x%2==0).sorted((t,u)->u.compareTo(t)).
                 forEach(System.out::println);
-        BCEDF
+        dfdgdgsdBCEDF
         System.out.println("fin du programme lamine1305");
 	System.out.println(" - -  - Validation de la part de lamine1306");	
 cfdnvjkkfhvbfgj
