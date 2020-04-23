@@ -37,7 +37,7 @@ public class Main {
         System.out.println("fin du programme lamine1305");
 	System.out.println(" - -  - Validation de la part de lamine1306");	
 
-      stem.out.println("fin du programme lamine1305 . . .1305");
+      System.out.println("fin du programme lamine1305 . . .1305");
 	
 
     }
