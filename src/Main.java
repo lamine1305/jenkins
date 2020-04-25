@@ -15,7 +15,7 @@ public class Main {
 
         Stream st = couleurs.parallelStream();
          Collection <String> newList= (Collection<String>) st.sorted((p1, p2)->p1.toString().length()-p2.toString().length())
-                 .limit(4)
+                 .limit(5)
                  .filter(p->p.toString().contains("r"))
                  .collect(Collectors.toList());
 
