@@ -19,6 +19,7 @@ public class Main {
                  .filter(p->p.toString().contains("r"))
                  .collect(Collectors.toList());
 
+	 Systel
          newList.forEach(x->System.out.println(x));
         System.out.println("GESTION DES STREAM D'ENTIERS");
          Stream<Integer> ss= Arrays.asList(1,2,3,4,5,6).stream();
@@ -42,6 +43,8 @@ public class Main {
 			    //*******************************************//    
         System.out.println("fin du programme");
 			//*****************************************************//
+      	System.out.println("fin du programme lamine1305 . . .1305");
+
 
     }
 }
