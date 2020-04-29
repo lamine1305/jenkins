@@ -31,6 +31,7 @@ public class Main {
         Arrays.stream(table).
                 filter(x->x%2==0).sorted((t,u)->u.compareTo(t)).
                 forEach(System.out::println);
+<<<<<<< HEAD
 
 		System.out.println("branche V1.....");        
 		//modif du message sur la branche
@@ -38,7 +39,9 @@ public class Main {
 	System.out.println(" - -  - Validation de la part de lamine1306");	
 
       System.out.println("fin du programme lamine1305 . . .1305");
-	
+			        
+        System.out.println("fin du programme");
+	//*****************************************************//
 
     }
 }
