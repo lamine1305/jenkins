@@ -45,6 +45,7 @@ public class Main {
 			//*****************************************************//
       	System.out.println("fin du programme lamine1305 . . .1305");
 
+	int a=100;
 
     }
 }
